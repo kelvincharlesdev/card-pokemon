@@ -21,7 +21,7 @@ Projeto foi um desafio de uma das MapasDev Week com os Gêmeos Ricardo e Roberto
   
          
 
-> Acesse a página on-line: <a href="" target=_blank> Calculator app </a>
+> Acesse a página on-line: <a href="https://card-pokemon-two.vercel.app/" target=_blank> Calculator app </a>
 
 ## 🖱️ A página
 
